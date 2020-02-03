@@ -164,6 +164,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [NODESK](https://nodesk.co/remote-jobs/)
   1. [Nonprofit Remote](https://nonprofitremote.com/) - A place where remote workers, volunteers, and nonprofits connect.
   1. [Power to Fly](https://powertofly.com/jobs/) - Specific to women
+  1. [Remote Jobs at Torre](https://torre.co/en/search/jobs?q=remote%3Ayes)
   1. [remote-jobs](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
   1. [Remotees](https://remotees.com/)
   1. [Remote.co Jobs](https://remote.co/remote-jobs/)
@@ -172,6 +173,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Skip the Drive](http://www.skipthedrive.com/)
   1. [Slasify](https://slasify.com/en/) - Remote tech, art/design and marketing opportunities from Asia, global payroll service included.
   1. [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote)
+  1. [Torre](https://www.torre.co/home) - Free end-to-end software solution for talent and job seekers.
   1. [Virtual Vocations](https://www.virtualvocations.com/)
   1. [Vue.js Jobs](https://vuejobs.com/) Find Vue.js jobs all around the world - Click on "Remote" tab.
   1. [React.js Jobs](https://www.react-jobs.com) Find React.js jobs all around the world - Click on "Remote" toggle button.
